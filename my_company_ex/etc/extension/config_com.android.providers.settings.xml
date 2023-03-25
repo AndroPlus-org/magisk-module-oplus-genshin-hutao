@@ -1,0 +1,6 @@
+<settings_provider_config>
+    <!-- Settings.Secure.SETTINGS_KEY_OPTICAL_FP_ANIM_STYLE -->
+    <settings_item name="optical_fp_anim_style" value="anim_78" category="secure" />
+    <settings_item name="oplus_customize_comm_incallui_curved_display_notification_color" value="gold" category="secure"/>
+    <settings_item  name="oplus_customize_aod_curved_display_call_switch" value="1" category="secure"/>
+</settings_provider_config>

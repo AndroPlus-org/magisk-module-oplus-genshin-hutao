@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GroupLayout gravity="center" groupLayout="vertical" height="match_parent" width="match_parent">
+  <ImageClockView width="wrap_content" height="wrap_content" hourHandName="ColorOS11_hourHand" minuteHandName="ColorOS11_minuteHand" centerName="ColorOS11_axes" backgroundName="Frame" backgroundType="frame" imageOrder="hour|minute|center"/>
+  <GroupLayout gravity="center" groupLayout="vertical" isRootGradient="true" height="wrap_content" width="match_parent" marginTop="20">
+    <GroupLayout height="wrap_content" groupLayout="horizontal" gravity="center" width="wrap_content">
+      <DateView alignment="center" direction="horizontal" width="wrap_content" height="wrap_content" textSize="14" typefacePath="normal" linearGradientStart="lt" linearGradientEnd="rb" linearGradientColors="#FFFFFF|#FFFFFF" supportVisiableDate="true" supportGradientColors="true" visibility="visiable"/>
+      <BatteryView marginLeft="10" width="wrap_content" height="wrap_content" showPercent="true" typefacePath="normal" direction="horizontal" linearGradientStart="lt" linearGradientEnd="rb" linearGradientColors="#FFFFFF|#FFFFFF" supportGradientColors="true" supportVisiableBattery="true" visibility="visiable"/>
+    </GroupLayout>
+    <GroupLayout height="wrap_content" groupLayout="horizontal" gravity="center" width="wrap_content" marginTop="1">
+      <LunarView direction="horizontal" alignment="center" width="wrap_content" height="wrap_content" textSize="14" typefacePath="normal" linearGradientStart="lt" linearGradientEnd="rb" linearGradientColors="#FFFFFF|#FFFFFF" supportVisiableLunar="true" supportGradientColors="true" visibility="visiable"/>
+      <AodMediaView alignment="center" direction="horizontal" width="wrap_content" height="wrap_content" maxWidth="200" linearGradientStart="lt" linearGradientEnd="rb" linearGradientColors="#FFFFFF|#FFFFFF" supportVisiableMedia="true" supportGradientColors="true" visibility="visiable"/>
+    </GroupLayout>
+    <NotificationView height="wrap_content" width="wrap_content" linearGradientStart="lt" marginTop="9" linearGradientEnd="rb" linearGradientColors="#FFFFFF|#FFFFFF" supportVisiableNotification="true" supportGradientColors="true" supportDirection="true" visibility="visiable"/>
+  </GroupLayout>
+</GroupLayout>

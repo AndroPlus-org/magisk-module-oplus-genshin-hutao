@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<OplusSmartPhoneThemeInfo>
+  <Author>OPPO</Author>
+  <Summary>原神胡桃限定版</Summary>
+  <Description>原神胡桃限定版</Description>
+  <EditorVersion>12000</EditorVersion>
+  <LastModifyTime>2022-09-22 18:00:00</LastModifyTime>
+  <IsGlobalTheme>0</IsGlobalTheme>
+  <UUID>66E09FAC283911EDAE57FA16D523CD5D</UUID>
+  <PackageName>66E09FAC283911EDAE57FA16D523CD5D</PackageName>
+  <StandardVersion>1</StandardVersion>
+  <VersionName>1</VersionName>
+  <VersionCode>1</VersionCode>
+  <disableLockPictorial>1</disableLockPictorial>
+  <enableLauncherApplyEffect>1</enableLauncherApplyEffect>
+  <packageInfo>
+    <package name="assets" version="001"/>
+    <package name="com.coloros.alarmclock" version="001"/>
+    <package name="com.android.systemui" version="001"/>
+    <package name="com.android.mms" version="001"/>
+    <package name="lockscreen" version="001"/>
+    <package name="icons" version="001"/>
+    <package name="picture" version="001"/>
+    <package name="wallpaper" version="001"/>
+    <package name="com.android.launcher" version="001"/>
+    <package name="com.android.incallui" version="001"/>
+    <package name="com.android.contacts" version="001"/>
+    <package name="com.android.settings" version="001"/>
+    <package name="com.oplus.exserviceui" version="001"/>
+  </packageInfo>
+  <resolutionInfo>
+    <resolution>1920*1080</resolution>
+    <resolution>960*540</resolution>
+  </resolutionInfo>
+</OplusSmartPhoneThemeInfo>

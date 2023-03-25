@@ -1,0 +1,10 @@
+ro.config.ringtone=ringtone_hutao.ogg
+ro.config.ringtone_sim2=ringtone_hutao.ogg
+ro.config.notification_sound=notification_hutao.ogg
+ro.config.notification_sms=sms_hutao.ogg
+ro.config.notification_sim2=sms_hutao.ogg
+ro.config.alarm_alert=alarm_hutao.ogg
+
+#ro.oplus.image.my_company.type=Ovaltine_YuanShen_OnePlus
+#ro.oplus.image.my_company.date=2022-10-09 17:50:26
+#ro.oplus.image.my_company.date.utc=1665309026

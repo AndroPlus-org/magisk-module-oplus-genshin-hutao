@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+    <aodlist titleResource="aod_home_album_yingshi" viewIndex="-3">
+        <item aodType="005" id="3003001" folder="OvaltineYuanShen" imageResource="OvaltineYuanShen/thumnail.jpg" version="0"/>
+    </aodlist>
+</resource>
